@@ -1,0 +1,39 @@
+.example {
+  max-width: 450px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  height: 420px;
+}
+.h4 {
+  margin-top: 10px;
+}
+
+.Red1 {
+  float: right;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+.button {
+  background-color: #0d28f0;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
